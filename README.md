@@ -75,11 +75,11 @@ Follow these steps to get started with the project:
 
 ### Login Page 🔑
 ![login](https://github.com/user-attachments/assets/8a4b8ada-d993-4dde-84ab-fad4678a0fbc)
-ge]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\login.png")
+
 
 ### Registration Page 📝
 ![register](https://github.com/user-attachments/assets/72ea7139-fdf6-4575-9dea-7f8fe476ed9f)
-("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\register.png")
+
 
 ## File Descriptions 📄
 
