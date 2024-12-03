@@ -68,16 +68,16 @@ Follow these steps to get started with the project:
 ## Screenshots 📸
 
 ### Homepage 🏠
-![Homepage](screenshots/homepage.png)
+![Homepage]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\Homepage.png")
 
 ### Dashboard 📊
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\dashboard.png")
 
 ### Login Page 🔑
-![Login Page](screenshots/login.png)
+![Login Page]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\login.png")
 
 ### Registration Page 📝
-![Registration Page](screenshots/register.png)
+![Registration Page]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\register.png")
 
 ## File Descriptions 📄
 
