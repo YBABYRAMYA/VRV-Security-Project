@@ -68,16 +68,18 @@ Follow these steps to get started with the project:
 ## Screenshots 📸
 
 ### Homepage 🏠
-![Homepage]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\Homepage.png")
+![Homepage](https://github.com/user-attachments/assets/85fe5c08-48cd-4e92-bff8-38650a5d3abf)
 
 ### Dashboard 📊
-![Dashboard]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\dashboard.png")
+![dashboard](https://github.com/user-attachments/assets/340a5d3d-ea3e-4604-a10c-33103cb65f1a)
 
 ### Login Page 🔑
-![Login Page]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\login.png")
+![login](https://github.com/user-attachments/assets/8a4b8ada-d993-4dde-84ab-fad4678a0fbc)
+ge]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\login.png")
 
 ### Registration Page 📝
-![Registration Page]("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\register.png")
+![register](https://github.com/user-attachments/assets/72ea7139-fdf6-4575-9dea-7f8fe476ed9f)
+("C:\Users\RAMYA\OneDrive\Pictures\Screenshots\register.png")
 
 ## File Descriptions 📄
 
