@@ -169,6 +169,19 @@ We welcome your contributions to enhance this project. Here’s how you can cont
 5. **Submit** a pull request.
 
 ---
+## 🎨 Screenshots
+### 🏠 Home Page
+![Homepage](https://github.com/user-attachments/assets/823121ed-d727-41b8-a057-b0b72445ae75)
+
+### 🔒 Login Page
+![login](https://github.com/user-attachments/assets/47110951-b472-49b6-ae4a-30ea22362e95)
+
+### 📝 Registration Page
+![register](https://github.com/user-attachments/assets/268516b1-3b12-4a95-8387-33971506f8ca)
+
+### 🔹 Dashboard
+![dashboard](https://github.com/user-attachments/assets/958e244b-cbab-4d8e-9e82-10a2814abda3)
+
 
 ## 📝 License
 
